@@ -1,4 +1,4 @@
-# Cybersecurity Analysis: Data Leak and Principle of Least Privilege 
+# Data Leak and Principle of Least Privilege 
 
 ## Scenario
 
